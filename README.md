@@ -13,13 +13,13 @@
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) Copyright (C) 2015-2016 leadin Group Holding Limited
 
 ##开发人员
-1：tophawk PM+整体架构搭建+网络传输模块
-2：liushuo 主数据分析和输出模块
-3：xiaofei 主内存队列和事件总线模块
-4：lixu 主file缓存模块
-5：Jon.K 主要负责portal监控和展现模块
+1：tophawk PM+整体架构搭建+网络传输模块。
+2：liushuo 主数据分析和输出模块。
+3：xiaofei 主内存队列和事件总线模块。
+4：lixu 主file缓存模块。
+5：Jon.K 主要负责portal监控和展现模块。
 
 ##时间节点
-1：2015年3月，开发时间从需求到结束，约一个月。
-2：2016年11月28日，server模块简单集成了spring boot，用spring data mongodb 替换原来的mongo工具类。
-3：2016年11月30日上传
+1：2015年2-3月，开发时间从需求到结束，约一个月。 
+2：2016年11月28日，server模块简单集成了spring boot，用spring data mongodb 替换原来的mongo工具类。 
+3：2016年11月30日上传。
